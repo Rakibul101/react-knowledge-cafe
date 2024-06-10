@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "title": "Exploring the Wonders of AI",
+        "cover_img": "https://i.ibb.co/HDzS5T9/cover1.jpg",
+        "author_img": "https://i.ibb.co/0ytsJ8p/autor1.jpg",
+        "author": "John Doe",
+        "publish_date": "2024-06-01",
+        "time": "10:00 AM",
+        "hashtag": "#AI #Technology #Future"
+    },
+    {
+        "id": 2,
+        "title": "A Journey Through Space",
+        "cover_img": "https://i.ibb.co/5XQ3RXC/cover2.jpg",
+        "author_img": "https://i.ibb.co/D4RTc7N/autor2.jpg",
+        "author": "Jane Smith",
+        "publish_date": "2024-06-05",
+        "time": "2:30 PM",
+        "hashtag": "#Space #Astronomy #Exploration"
+    },
+    {
+        "id": 3,
+        "title": "The Art of Cooking",
+        "cover_img": "https://i.ibb.co/ngsjmpW/cover3.jpg",
+        "author_img": "https://i.ibb.co/TYz51Cy/autor3.jpg",
+        "author": "Emma Brown",
+        "publish_date": "2024-06-10",
+        "time": "6:00 PM",
+        "hashtag": "#Cooking #Culinary #Recipes"
+    },
+    {
+        "id": 4,
+        "title": "Understanding Quantum Physics",
+        "cover_img": "https://i.ibb.co/60RGYLB/cover4.jpg",
+        "author_img": "https://i.ibb.co/8YYDKDY/autor4.jpg",
+        "author": "Mark Wilson",
+        "publish_date": "2024-06-15",
+        "time": "9:00 AM",
+        "hashtag": "#Physics #Quantum #Science"
+    },
+    {
+        "id": 5,
+        "title": "The Evolution of Art",
+        "cover_img": "https://i.ibb.co/27hQQR9/cover5.jpg",
+        "author_img": "https://i.ibb.co/51q5SY2/autor5.jpg",
+        "author": "Lisa Jones",
+        "publish_date": "2024-06-20",
+        "time": "11:30 AM",
+        "hashtag": "#Art #History #Culture"
+    }
+]
