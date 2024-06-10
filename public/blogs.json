@@ -1,52 +1,55 @@
 [
     {
         "id": 1,
-        "title": "Exploring the Wonders of AI",
-        "cover_img": "https://i.ibb.co/HDzS5T9/cover1.jpg",
-        "author_img": "https://i.ibb.co/0ytsJ8p/autor1.jpg",
-        "author": "John Doe",
-        "publish_date": "2024-06-01",
-        "time": "10:00 AM",
-        "hashtag": "#AI #Technology #Future"
+        "cover": "https://i.ibb.co/84Zfw2n/1.jpg",
+        "title": "Top 10 ES6 Features You Must Know",
+        "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
+        "author": "Hamza Sohail",
+        "posted_date": "September 15, 2023",
+        "reading_time": 5,
+        "hashtags": [
+            "beginners",
+            "es6"
+        ]
     },
     {
         "id": 2,
-        "title": "A Journey Through Space",
-        "cover_img": "https://i.ibb.co/5XQ3RXC/cover2.jpg",
-        "author_img": "https://i.ibb.co/D4RTc7N/autor2.jpg",
-        "author": "Jane Smith",
-        "publish_date": "2024-06-05",
-        "time": "2:30 PM",
-        "hashtag": "#Space #Astronomy #Exploration"
+        "cover": "https://i.ibb.co/6N2dgnZ/2.png",
+        "title": "JavaScript Objects for Absolute Beginners: A Fun Introduction",
+        "author_img": "https://i.ibb.co/7rFSJx5/girl1.jpg",
+        "author": "Sajal Ali",
+        "posted_date": "August 28, 2023",
+        "reading_time": 4,
+        "hashtags": [
+            "javascript",
+            "coding",
+            "dev"
+        ]
     },
     {
         "id": 3,
-        "title": "The Art of Cooking",
-        "cover_img": "https://i.ibb.co/ngsjmpW/cover3.jpg",
-        "author_img": "https://i.ibb.co/TYz51Cy/autor3.jpg",
-        "author": "Emma Brown",
-        "publish_date": "2024-06-10",
-        "time": "6:00 PM",
-        "hashtag": "#Cooking #Culinary #Recipes"
+        "cover": "https://i.ibb.co/RzGzcPg/3.png",
+        "title": "Component lifecycle in React — Class component vs Functional component",
+        "author_img": "https://i.ibb.co/vwGwnhT/boy2.jpg",
+        "author": "Feroze Khan",
+        "posted_date": "July 10, 2023",
+        "reading_time": 10,
+        "hashtags": [
+            "mid_level",
+            "react"
+        ]
     },
     {
         "id": 4,
-        "title": "Understanding Quantum Physics",
-        "cover_img": "https://i.ibb.co/60RGYLB/cover4.jpg",
-        "author_img": "https://i.ibb.co/8YYDKDY/autor4.jpg",
-        "author": "Mark Wilson",
-        "publish_date": "2024-06-15",
-        "time": "9:00 AM",
-        "hashtag": "#Physics #Quantum #Science"
-    },
-    {
-        "id": 5,
-        "title": "The Evolution of Art",
-        "cover_img": "https://i.ibb.co/27hQQR9/cover5.jpg",
-        "author_img": "https://i.ibb.co/51q5SY2/autor5.jpg",
-        "author": "Lisa Jones",
-        "publish_date": "2024-06-20",
-        "time": "11:30 AM",
-        "hashtag": "#Art #History #Culture"
+        "cover": "https://i.ibb.co/vvTfkcv/4.jpg",
+        "title": "Free images and resources collection for website",
+        "author_img": "https://i.ibb.co/Sn7zB4q/girl2.jpg",
+        "author": "Anmol Baloch",
+        "posted_date": "June 5, 2023",
+        "reading_time": 9,
+        "hashtags": [
+            "development",
+            "resources"
+        ]
     }
 ]
